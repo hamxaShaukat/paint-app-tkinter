@@ -1,0 +1,27 @@
+#F16B17 ===> Orange
+#ADFF00 ===> Lime
+#007B01 ===> Parrot
+#00BF63 ===> Green
+
+
+
+
+
+
+
+
+
+
+
+
+#FF3131 ===> Red
+#004AAD ===> Blue
+#CB6CE6 ===> Purple
+#FF0082 ===> Pink
+#000000 ===> Black
+#727272 ===> Grey
+#00E8FF ===> Aqua
+#FFDE59 ===> Yellow
+
+
+
